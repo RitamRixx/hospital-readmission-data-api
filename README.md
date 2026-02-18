@@ -1,2 +1,2 @@
-# hospital-readmisson-data-api
-api for Hospital Readmisson dataset
+# hospital-readmission-data-api
+api for Hospital Readmission dataset
